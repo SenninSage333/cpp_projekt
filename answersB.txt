@@ -1,0 +1,25 @@
+echo("Hello World")|print ("Hello World")|System.out.println("Hello World")|Console.WriteLine("Hello World")
+True|False
+// This is a comment|# This is a comment|/* This is a comment
+myString|Txt|string|String
+int x = 5|x = 5|num x = 5|float x = 5
+int x = 2.8f|float x = 2.8f|byte x = 2.8f|x = 2.8f
+length()|getSize()|getLength()|len()
+The & sign|The * sign|The + sign
+False|True
+upperCase()|touppercase()|toUpperCase()|tuc()
+<>|><|==|=
+[]|{}|()
+1|0
+methodName()|(methodName)|methodName[]|methodName.
+methodName|methodName[]|(methodName)|methodName()
+class()|class|MyClass|className
+new myObj = MyClass()|class MyClass = new myObj()|class myObj = new MyClass()|MyClass myObj = new MyClass()
+False|True
+Math.max(x,y)|Math.maximum(x,y)|Math.largest(x,y)|Math.maxNum(x,y)
+#|*|%|x
+getlib|lib|import|package
+if x > y then:|if x > y:|if (x > y)
+x > y while {|while x > y:|while x > y {|while (x > y)
+return|void|get|break
+return|exit|stop|break

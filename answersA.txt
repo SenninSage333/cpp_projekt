@@ -1,0 +1,25 @@
+System.out.println("Hello World")|cout << "Hello World"|Console.WriteLine("Hello World")|print ("Hello World")
+False|True
+// This is a comment|# This is a comment|/* This is a comment
+Txt|string|String|myString
+num x = 5|x = 5|double x = 5|int x = 5
+byte x = 2.8|int x = 2.8|double x = 2.8|x = 2.8
+length()|getSize()|len()|getLength()
+The * sign|The & sign|The + sign
+False|True
+#include <inputstr>|#include <iosstring>|#include <stream>|#include <iostream>
+><|=|==|<>
+()|{}|[]
+1|0
+functionName()|functionName[]|(functionName)|functionName.
+(functionName)|functionName[]|functionName|functionName()
+className|MyClass|class|class()
+class myObj = new MyClass()|new myObj = MyClass()|MyClass myObj|class MyClass = new myObj()
+False|True
+maxNum(x,y)|max(x,y)|largest(x,y)|maximum(x,y)
+*|x|#|%
+With the REF word|With the ref word|With the & operator|With the * operator
+if x > y then:|if x > y:|if (x > y)
+while (x > y)|while x > y:|while x > y {|x > y while {
+get|return|void|break
+break|return|stop|exit

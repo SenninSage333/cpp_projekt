@@ -1,0 +1,25 @@
+What is a correct syntax to output "Hello World" in Java?
+Java is short for "JavaScript".
+How do you insert COMMENTS in Java code?
+Which data type is used to create a variable that should store text?
+How do you create a variable with the numeric value 5?
+How do you create a variable with the floating number 2.8?
+Which method can be used to find the length of a string?
+Which operator is used to add together two values?
+The value of a string variable can be surrounded by single quotes.
+Which method can be used to return a string in upper case letters?
+Which operator can be used to compare two values?
+To declare an array in Java, define the variable type with:
+Array indexes start with:
+How do you create a method in Java?
+How do you call a method in Java?
+Which keyword is used to create a class in Java?
+What is the correct way to create an object called myObj of MyClass?
+In Java, it is possible to inherit attributes and methods from one class to another.
+Which method can be used to find the highest value of x and y?
+Which operator is used to multiply numbers?
+Which keyword is used to import a package from the Java API library?
+How do you start writing an if statement in Java?
+How do you start writing a while loop in Java?
+Which keyword is used to return a value inside a method?
+Which statement is used to stop a loop?
